@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">
+欢 迎 光 临 
+</h1>
 
-<!--
-**NielsLee/NielsLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--- 
 
-Here are some ideas to get you started:
+***这里本该放一句很有哲理的话，显得我很深沉很有涵养，可惜我想不出来***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Bobee](bobee.jpeg)
+
+*(✿◠‿◠)它叫Bobee*
